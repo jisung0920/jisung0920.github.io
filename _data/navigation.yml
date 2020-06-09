@@ -11,8 +11,10 @@ main:
      url: /about/
    - title: "Categories"
      url: /categories/
+   - title: "Tags"
+     url: /tags/
    - title: "Data Mining"
-     url: /categories/data_mining
+     url: /categories/Data Mining/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
