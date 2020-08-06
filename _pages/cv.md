@@ -10,14 +10,12 @@ layout : single
 
 ## Education
 
-**Master**   
-
+**Master**     
 *2020.9 - Present*   
 Postech, South Korea   
 Dept. of Artificial Intelligence
 
-**B.S**
-
+**B.S.**   
 *2013.2 - 2020.2*  
 Hanyang University ERICA, South Korea  
 Dept. of Compert Science and Engineering
