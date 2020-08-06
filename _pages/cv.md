@@ -1,5 +1,5 @@
 ---
-title : "J Lab"
+title : "CV"
 permalink : /CV/
 layout : single
 ---
