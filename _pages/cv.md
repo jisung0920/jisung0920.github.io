@@ -1,14 +1,12 @@
 ---
-title : "Curriculum Vitae"
+title : "Jisung Jeong"
 permalink : /CV/
 layout : single
 ---
 
-## Jisung Jeong
-
 > jsjeong@dblab.postech.ac.kr
 
-
+<br/>
 
 ## Education
 
@@ -22,13 +20,15 @@ Dept. of Artificial Intelligence
 
 *2013.2 - 2020.2*  
 Hanyang University ERICA, South Korea  
-Dept. Compert Science and Engineering
+Dept. of Compert Science and Engineering
+
+<br/>
 
 ## Publications
 
 1. Jisung Jeong and Jongwon Yoon. 2019. Signal Based Device-Free Tracking. In Proceedings of the Twentieth ACM International Symposium on Mobile Ad Hoc Networking and Computing (Mobihoc ’19).
 
-
+<br/>
 
 ## Reference
 
